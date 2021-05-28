@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on two discord bots, Ares and Artemis ;)
+- 🌱 I’m currently learning Python and JS :0
+- 👯 I’m looking to collaborate on nothing much atm :)
+- 🤔 I’m looking for help with any suggestions/fixes 
+- 💬 Ask me about what my bots do :D
+- 📫 How to reach me: Discord: Yellooooooo#3477
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to do art >:)
 <!--
 **Yelloo5191/Yelloo5191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
