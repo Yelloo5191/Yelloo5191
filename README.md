@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/Yelloo5191/Yelloo5191/main/bannerGit1.png "Header")
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on two discord bots, Ares and Artemis ;)
@@ -8,6 +10,12 @@
 - 📫 How to reach me: Discord: Yellooooooo#3477
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to do art >:)
+
+[![Yelloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)
+
+
+
 <!--
 **Yelloo5191/Yelloo5191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
