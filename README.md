@@ -12,6 +12,8 @@ I'm Yelloo, a Python dev looking to grow and learn!
      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=60 height=67>
      <img src = "https://user-images.githubusercontent.com/76452706/120879319-5dc67780-c577-11eb-855a-49416e90ed17.png" width=60 height=60>
      <img src = "https://user-images.githubusercontent.com/76452706/120879310-4d160180-c577-11eb-89f7-62b06d51b368.png" width=60 height=60>
+     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width=60 height=60>
+     <img src = "https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png" width=60 height=60>
 - 🔓 I'm open to any criticism/tips on my projects so be sure to reach out if you want to!
 - ✉️ You can reach out to me on discord - ``Yellooooooo#3477``
 ***
