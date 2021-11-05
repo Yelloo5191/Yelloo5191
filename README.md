@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Yelloo5191/Yelloo5191/main/bannerGit1.png "Header")
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=yello&fontSize=90)
 
 ### HEYYY 👋
 
