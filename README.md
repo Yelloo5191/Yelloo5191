@@ -4,7 +4,7 @@
 
 I'm Yelloo, a Python dev looking to grow and learn!
 *** 
-- 🙋🏽‍♂️ My pronouns are He/Him and I am 17 years old!
+- 🙋🏽‍♂️ My pronouns are He/Him and I am 18 years old!
 - ♟ Some projects I'm working on right now are my Portfolio site and a secret game ;) 
 - 🎸 Some other languages I'm learning are <br>
 
