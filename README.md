@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/Yelloo5191/Yelloo5191/main/bannerGit1.png "Header")
 
-### HEYYY 👋
+### 👋
 
 I'm Yelloo, a Python dev looking to grow and learn!
 *** 
