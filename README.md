@@ -18,9 +18,10 @@ I'm Yelloo, a Python dev looking to grow and learn!
 - 🔓 I'm open to any criticism/tips on my projects so be sure to reach out if you want to!
 - ✉️ You can contact me on discord - ``Yellooooooo#3477`` - or you can submit a contact form on my website [Portfolio V2](https://www.yelloo.tech/contact)
 *** -->
-[![Yelloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)
+
+<!--[![Yelloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)
 [![More stats](https://github-readme-streak-stats.herokuapp.com/?user=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelloo5191&theme=gruvbox)](https://github.com/Yelloo5191/github-readme-stats)-->
 
 
 <!--
