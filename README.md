@@ -1,4 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hovhannes.tech;+More+Than+a+Developer+👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hovhannes.tech;+More+Than+a+Developer+👨‍💻&width=800&height=400)
+<!-- ^^ Credit to (https://github.com/Akshay090/svg-banners)
 <!-- ![](artbanner.png) -->
 <!-- ![Header](https://raw.githubusercontent.com/Yelloo5191/Yelloo5191/main/bannerGit1.png "Header")
 
